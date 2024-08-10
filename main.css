@@ -5,19 +5,8 @@
     font-family: "Poppins", sans-serif;
 }
 html{
-    
-    
+    min-width: 1025px;   
 }
-
-header{
-    
-}
-
-
-
-
-
-
 
 
 /*---------------- DESKTOP MEDIA QUERY -------------------*/
