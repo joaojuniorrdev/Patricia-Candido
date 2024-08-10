@@ -6,6 +6,7 @@
 }
 html{
     min-width: 980px;  
+    background-color: #90D0EF;
 }
 
 
@@ -19,6 +20,7 @@ html{
         width: 100%;
         padding: 16px;
         flex-wrap: nowrap;
+        
     }
     header div.container{
         display: flex;
@@ -102,6 +104,8 @@ html{
         margin-top: 50px;
         margin-bottom: 50px;
         padding-top: 30px;
+        border-top: 50px solid #fff;
+        border-bottom: 50px solid #fff;
     }
     section.secao1 .container{
         width: 80%;
@@ -365,6 +369,7 @@ html{
     
     footer{
         background-color: #90D0EF;
+        border-top: 20px solid #fff;
     }
     footer .img{
         display: flex;
@@ -384,7 +389,7 @@ html{
         align-items: center;
         width: 90%;
         margin: 0 auto;
-        padding-bottom: 5px;
+        
     }
     footer .copy img{
         width: 28px;
